@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    height: 50px;
+}
+h2{
+    text-align: center;
+    height: 50px;
+}
+form{
+    text-align: center;
+}
+.input1{
+    height: 50px;
+}
+.input2{
+    height: 50px;
+   
+}   
+html{
+    background-color: antiquewhite;
+}
+.input3{
+    height: 50px;
+}
+.guide{
+    text-align: center;
+    
+
+
+}
+#results{
+    height: 50px;
+    color: black;
+    
+    
+}
